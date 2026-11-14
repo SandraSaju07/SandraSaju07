@@ -12,9 +12,9 @@
 
   <!-- Clean Minimal Navigation Links -->
   <p>
-    <a href="mailto:YOUR-EMAIL@example.com">Say Hello</a> &nbsp;•&nbsp;
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">LinkedIn</a> &nbsp;•&nbsp;
-    <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=repositories">Projects</a>
+    <a href="mailto:sandrasaju654@gmail.com">Say Hello</a> &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/in/sandra-saju-974301134/">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="https://github.com/SandraSaju07?tab=repositories">Projects</a>
   </p>
 
   <br/>
