@@ -8,8 +8,6 @@
   <!-- Single Minimal Status Line -->
   <sub><i>Currently brewing: tranquil game loops &amp; AI experiments ✨</i></sub>
 
-  <br/><br/>
-
   <!-- Clean Minimal Navigation Links -->
   <p>
     <a href="mailto:sandrasaju654@gmail.com">Say Hello</a> &nbsp;•&nbsp;
