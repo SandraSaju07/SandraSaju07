@@ -3,8 +3,6 @@
   <!-- Animated Cozy Pixel Desk Banner -->
   <img src="./pixel-desk.svg" alt="Hi, I'm Sandra ✨" width="100%" />
 
-  <br/><br/>
-
   <!-- Single Minimal Status Line -->
   <sub><i>Currently brewing: tranquil game loops &amp; AI experiments ✨</i></sub>
 
